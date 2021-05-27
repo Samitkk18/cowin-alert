@@ -20,9 +20,7 @@ $ python main.py
 ```
 
 
-## Possible Use Cases
-
-There can be multiple use cases for this project:
+## Use Cases
 
 1. use `email_alerts` to send vaccine availability alerts periodically by automating the script with Crontab or task scheduler in case of windows.
 
