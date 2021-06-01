@@ -14,7 +14,7 @@ $ pip install -r requirements.txt
 Once installed, this is very easy to use. First, change the configurations in the `config.yml` file according to your need.
 
 Then simply run the main.py file:
-It does 3 steps: create sqlite3 database and email_alerts
+It does 2 steps: create sqlite3 database and email_alerts
 ```sh
 $ python main.py
 ```
